@@ -21,7 +21,7 @@ The primary focus of this repository is the Secure Login Process, demonstrating 
 - Version Control: GitHub
 
 3.Starting the website
-1. Download the frontend and backend from GitHub.
+1. Download the frontend and backend zip file from GitHub and extract.
 2. Database Setup: Import the provided schema to your local SQL server.
 3. Run: Open the project in IntelliJ or Antigravity and run Main.java to start the local host.
 
